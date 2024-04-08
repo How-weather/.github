@@ -10,11 +10,6 @@
 
 <br >
 
-##  팀 로고
-<p align="center">
- <img width="400" alt="테오의 스프린트 17기  6조" src="https://github.com/joshyeom/how-weather-front/assets/105287510/27b09e0d-d7db-422f-89a1-b9a70568f503">
-</p>
-
 # 💼 서비스 소개
 
 ```jsx
@@ -44,9 +39,8 @@ How-weather 는 이러한 분들을 위해 현재 날씨를 고려하여 옷을 
 ```
 
 <br >
-<br >
 
-# 👨‍👩‍👧‍👦 팀 소개
+# 👨‍👩‍👧‍👦 팀원 소개
 
 |      Design      |     BE      |  
 | :--------------: | :--------------: | 
@@ -112,4 +106,6 @@ Chore: 빌드 업무 수정, 패키지 매니저 수정 (ex .gitignore 수정 �
 
 <p align="center">
   <img src="https://github.com/joshyeom/how-weather-front/assets/105287510/a56a0f91-5fd3-44e5-adad-e9dff6ec0e37">
+  <br>
+  <img width="200" alt="테오의 스프린트 17기  6조" src="https://github.com/joshyeom/how-weather-front/assets/105287510/27b09e0d-d7db-422f-89a1-b9a70568f503">
 </p>
